@@ -1,0 +1,49 @@
+body {
+  font-family: 'Helvetica', sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.container {
+  text-align: center;
+}
+
+.title {
+  font-size: 45px;
+  font-style: italic;
+  color: grey;
+  text-shadow: 1px 1px 2px #000000;
+  margin-bottom: 20px;
+}
+
+.login-box {
+  background-color: lightcoral;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.form-row {
+  margin-bottom: 15px;
+}
+
+.black-text {
+  color: black;
+}
+
+.login-btn {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.register-text {
+  color: black;
+}
+
+.register-link {
+  color: blue;
+  cursor: pointer;
+}
